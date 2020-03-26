@@ -104,9 +104,9 @@
   
   # have snacds arrary element "crackers" be fixed and cheese_types elements compare to "crackers" be loop and compare to snack
   
-  crackers == cheddar 
+  #crackers == cheddar 
   
-  crackers == gouda
+  #crackers == gouda
   
   crackers == camembert
   
