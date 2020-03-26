@@ -77,6 +77,13 @@
   
   
   
+  
+  
+  
+  
+   snacks = ["crackers", "gouda", "thyme"]
+  
+  
   crackers == cheddar 
   
   crackers == gouda
