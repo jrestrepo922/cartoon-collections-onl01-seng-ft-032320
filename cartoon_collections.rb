@@ -116,7 +116,7 @@
   i = 0
   while cheese_types.length > i
     if snacks[1] == cheese_types[i] 
-      puts snack[1]
+      puts snacks[1]
     else
       puts "not in here!"
     end 
