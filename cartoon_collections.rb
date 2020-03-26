@@ -102,6 +102,7 @@
   
   snacks = ["crackers", "gouda", "thyme"]
   
+  # have cheese_types element "crackers" be fixed and snacks be loop and compare to snack
   
   crackers == cheddar 
   
