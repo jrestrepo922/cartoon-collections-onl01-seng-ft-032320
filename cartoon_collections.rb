@@ -115,8 +115,10 @@
   
   i = 0
   while cheese_types.length > i
-  if snacks[1] == cheese_types[i] 
-    return snack[1] 
+    if snacks[1] == cheese_types[i] 
+     return snack[1]
+    end
+    i += 1 
   end 
   
   
