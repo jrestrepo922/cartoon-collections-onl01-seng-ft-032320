@@ -17,7 +17,7 @@
     end
   end
   
-  roll_call_dwarves(array_method1)
+ # roll_call_dwarves(array_method1)
   
   #1.*Dopey
 
@@ -32,7 +32,7 @@
     }
   end
   
-  summon_captain_planet(planeteer_calls)
+  #summon_captain_planet(planeteer_calls)
   
   #summon_captain_planet(planeteer_calls)
   #=> ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
@@ -52,7 +52,7 @@
     }
   end
 
-  what_is_it = long_planeteer_calls(assorted_words)
+ # what_is_it = long_planeteer_calls(assorted_words)
 
 
 
@@ -71,7 +71,7 @@
   
   end
   
-  find_the_cheese(snacks)
+  #find_the_cheese(snacks)
   #=> "gouda"
   
   
