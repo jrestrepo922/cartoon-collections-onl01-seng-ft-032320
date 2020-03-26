@@ -116,8 +116,10 @@
   i = 0
   while cheese_types.length > i
     if snacks[1] == cheese_types[i] 
-     return snack[1]
-    end
+      puts snack[1]
+    else
+      puts "not in here!"
+    end 
     i += 1 
   end 
   
