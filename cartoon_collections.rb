@@ -65,7 +65,7 @@
     cheese_types = ["cheddar", "gouda", "camembert"]
     array.find { |string|
      
-      while
+      while 
       string == cheese_types
     }
   
