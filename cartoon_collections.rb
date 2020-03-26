@@ -67,9 +67,7 @@
     i = 0
     while cheese_types.length > i
       if string == cheese_types[i] 
-        puts string
-      else
-        puts "not in here! and on iteration #{i + 1}"
+        return string
       end 
       i += 1 
     end 
