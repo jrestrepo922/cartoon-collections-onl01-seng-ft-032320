@@ -81,7 +81,26 @@
   
   
   
-   snacks = ["crackers", "gouda", "thyme"]
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  cheese_types = ["cheddar", "gouda", "camembert"]
+  
+  snacks = ["crackers", "gouda", "thyme"]
   
   
   crackers == cheddar 
