@@ -108,9 +108,13 @@
   
   #crackers == gouda
   
-  crackers == camembert
+  #crackers == camembert
   
-  
+  i = 0
+  while cheese_types.length > i
+  if snacks[1] == cheese_types[i] 
+    return snack[1] 
+  end 
   
   
   
