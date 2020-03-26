@@ -118,7 +118,7 @@
     if snacks[1] == cheese_types[i] 
       puts snacks[1]
     else
-      puts "not in here!"
+      puts "not in here! and on iteration #{i + 1}"
     end 
     i += 1 
   end 
