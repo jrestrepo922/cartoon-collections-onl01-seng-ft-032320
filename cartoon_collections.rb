@@ -98,9 +98,7 @@
   
   
   
-  cheese_types = ["cheddar", "gouda", "camembert"]
-  
-  snacks = ["crackers", "gouda", "thyme"]
+
   
   # have snacds arrary element "crackers" be fixed and cheese_types elements compare to "crackers" be loop and compare to snack
   
@@ -109,6 +107,11 @@
   #crackers == gouda
   
   #crackers == camembert
+  
+  cheese_types = ["cheddar", "gouda", "camembert"]
+  
+  snacks = ["crackers", "gouda", "thyme"]
+  
   
   i = 0
   while cheese_types.length > i
